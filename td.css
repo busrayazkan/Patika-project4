@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(61, 33, 7);
+}
+.head1{
+    color:azure;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.nav1 {
+    background-color: rgb(225, 205, 177) ;
+    display:flex;
+    gap: 100px; 
+    justify-content:center;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.nav2 {
+    color: black;
+}
+
+p{
+    color: rgb(225, 205, 177);
+}
+
+#anasayfaimg {
+    width: 100%;
+    height: 100%; 
+}
+
+img {
+    width: 200px; height: 140px;
+    align-items: center;
+}
+
+.icecek {
+    text-align: center;
+    list-style-type: none;
+}
+
+.tatlılar {
+    text-align: center;
+
+}
+.footer1 {
+/* position: fixed; */
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: rgb(225, 205, 177);
+color:rgb(61, 33, 7);
+text-align: center;
+margin: 20px;
+}
